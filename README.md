@@ -14,3 +14,5 @@ Final remarks:
 - in some cases the average number of goals scored and conceded is not a good indicator
 - the poisson distribution captures effectively what I wanted to test
 - more accurate techniques are crucial to get more meaningul results
+
+![Example of final Outcome](relative_path_to_image)
