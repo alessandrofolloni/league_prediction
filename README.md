@@ -15,4 +15,4 @@ Final remarks:
 - the poisson distribution captures effectively what I wanted to test
 - more accurate techniques are crucial to get more meaningul results
 
-![Example of final Outcome](relative_path_to_image)
+![Example of final Outcome](wins.png)
